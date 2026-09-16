@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "latest": "1.0.0+4",
+  "requiredVersion": "1.0.0+4",
+  "androidUrl": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.0.0/1.0.0-armeabi-v7a.apk",
+  "androidUrls": {
+    "arm64-v8a": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.0.0/1.0.0-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.0.0/1.0.0-armeabi-v7a.apk"
+  },
+  "windowsUrl": "https://github.com/TvMoTo/TvMoTo/releases"
+}
