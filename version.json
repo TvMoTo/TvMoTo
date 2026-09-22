@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "latest": "0.0.2+9",
-  "requiredVersion": "0.0.1+4",
+  "requiredVersion": "0.0.2+9",
   "androidUrl": "https://github.com/TvMoTo/TvMoTo/releases/download/v0.0.2/0.0.2-universal.apk",
   "androidUrls": {
     "arm64-v8a": "https://github.com/TvMoTo/TvMoTo/releases/download/v0.0.2/0.0.2-arm64-v8a.apk",
