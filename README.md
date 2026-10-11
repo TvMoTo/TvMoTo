@@ -18,18 +18,14 @@ for Android TV — and it still works great on your phone, with a mouse, or with
 
 ## ⚠️ Before you install — current known rough edges
 
-TvMoTo is actively being built, and two parts of the app aren't finished yet.
-Nothing here affects watching anything — it's just honesty about what's done and
-what isn't:
+TvMoTo is actively being built. Nothing here affects watching anything — it's
+just honesty about what's done and what isn't:
 
-- **The Profile page is currently broken.** You may see it in the app, but it
-  doesn't work properly yet.
 - **The Settings page doesn't look finished.** The screens are there, but many of
   the options behind them still need to be connected up behind the scenes, so some
   parts look and feel incomplete. (A few sections are marked **SOON**.)
 
-Neither of these is the main priority right now. Watching, browsing, and searching
-come first — these two will get their turn.
+Watching, browsing, and searching come first — Settings will get its turn.
 
 ---
 
@@ -53,6 +49,11 @@ A one-tap "Skip" button for openings and endings — for anime, shows, and movie
 **▶️ Pick up right where you left off**
 "Continue Watching" remembers every episode and movie you've started, and shows
 how much time is left.
+
+**👤 A Profile page that keeps score**
+A personal dashboard of what you're watching: a summary of your Continue
+Watching, viewing stats and charts, and your saved My List — all navigable with
+the remote.
 
 **🌗 Nine looks, light or dark**
 Six dark themes for movie nights and three light ones for daytime or desktop.
@@ -88,6 +89,16 @@ completely optional — the app stays free either way.
 </p>
 <p align="center">
   <img src="screenshots/tv-search.jpg" width="90%" alt="Search with a remote-friendly keyboard">
+</p>
+
+### Your profile, at a glance
+
+<p align="center">
+  <img src="screenshots/tv-profile-dashboard.jpg" width="90%" alt="Profile dashboard with Continue Watching summary">
+</p>
+<p align="center">
+  <img src="screenshots/tv-profile-stats.jpg" width="45%" alt="Viewing stats and charts">
+  <img src="screenshots/tv-profile-mylist.jpg" width="45%" alt="Saved My List grid">
 </p>
 
 ### Light or dark — your choice
