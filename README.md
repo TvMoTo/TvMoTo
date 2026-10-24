@@ -16,16 +16,11 @@ for Android TV — and it still works great on your phone, with a mouse, or with
 
 ---
 
-## ⚠️ Before you install — current known rough edges
+## What's included
 
-TvMoTo is actively being built. Nothing here affects watching anything — it's
-just honesty about what's done and what isn't:
-
-- **The Settings page doesn't look finished.** The screens are there, but many of
-  the options behind them still need to be connected up behind the scenes, so some
-  parts look and feel incomplete. (A few sections are marked **SOON**.)
-
-Watching, browsing, and searching come first — Settings will get its turn.
+TvMoTo is actively being built and actively maintained. **Watching, browsing, and searching
+work well. Settings and Profile are now complete.** If you find something broken, let us
+know — each month brings fixes and new features.
 
 ---
 
@@ -43,6 +38,12 @@ select. No mouse needed. (It also works on phones, tablets, and computers.)
 Streaming links break — that's just how free streaming works. Instead of showing
 an error and giving up, TvMoTo quietly tries other sources until one plays.
 
+**🧭 A side menu that stays out of your way**
+Prefer a clean screen? TvMoTo's slim left-hand rail keeps Search, Movies, TV, Anime,
+Settings, and Profile one press of the remote away. It stays a thin strip of icons while
+you browse, then opens with labels the moment you press Left — so artwork gets the whole
+screen until you need to move around. (Top-bar navigation is there too, if you like it better.)
+
 **⏭️ Skip the intro. Get to the story.**
 A one-tap "Skip" button for openings and endings — for anime, shows, and movies.
 
@@ -52,8 +53,12 @@ how much time is left.
 
 **👤 A Profile page that keeps score**
 A personal dashboard of what you're watching: a summary of your Continue
-Watching, viewing stats and charts, and your saved My List — all navigable with
+Watching, viewing stats and charts, a rewatch counter, and your saved My List — all navigable with
 the remote.
+
+**⚙️ Control every detail**
+From subtitle styling and playback speed to theme choices and backup options, Settings lets
+you shape the experience to match how you watch. Plus an in-app QR code to support development.
 
 **🌗 Nine looks, light or dark**
 Six dark themes for movie nights and three light ones for daytime or desktop.
@@ -75,6 +80,9 @@ completely optional — the app stays free either way.
 
 ### On your TV
 
+<p align="center">
+  <img src="screenshots/tv-home-spine-rail.jpg" width="90%" alt="Home screen with the slim left-hand navigation rail">
+</p>
 <p align="center">
   <img src="screenshots/tv-home-anime.jpg" width="45%" alt="Anime home screen">
   <img src="screenshots/tv-home-tv.jpg" width="45%" alt="TV shows home screen">
@@ -100,12 +108,18 @@ completely optional — the app stays free either way.
   <img src="screenshots/tv-profile-stats.jpg" width="45%" alt="Viewing stats and charts">
   <img src="screenshots/tv-profile-mylist.jpg" width="45%" alt="Saved My List grid">
 </p>
+<p align="center">
+  <img src="screenshots/tv-profile-light-rail.jpg" width="90%" alt="Profile dashboard in a light theme, with the left-hand rail">
+</p>
 
-### Light or dark — your choice
+### Control your experience
 
 <p align="center">
   <img src="screenshots/tv-home-light.jpg" width="45%" alt="Home screen in a light theme">
   <img src="screenshots/tv-themes.jpg" width="45%" alt="Theme picker with nine themes">
+</p>
+<p align="center">
+  <img src="screenshots/18-settings-system-about.jpg" width="90%" alt="Settings: system and about section">
 </p>
 
 ### On your phone
