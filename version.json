@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
-  "latest": "1.5.0+17",
+  "latest": "1.6.0+18",
   "requiredVersion": "1.5.0+17",
-  "androidUrl": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.5.0/1.5.0-universal.apk",
+  "androidUrl": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.6.0/1.6.0-universal.apk",
   "androidUrls": {
-    "arm64-v8a": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.5.0/1.5.0-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.5.0/1.5.0-armeabi-v7a.apk"
+    "arm64-v8a": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.6.0/1.6.0-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.6.0/1.6.0-armeabi-v7a.apk"
   },
-  "windowsUrl": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.5.0/1.5.0-windows-x64-setup.exe"
+  "windowsUrl": "https://github.com/TvMoTo/TvMoTo/releases/download/v1.6.0/1.6.0-windows-x64-setup.exe"
 }
