@@ -99,6 +99,14 @@ completely optional — the app stays free either way.
   <img src="screenshots/tv-search.jpg" width="90%" alt="Search with a remote-friendly keyboard">
 </p>
 
+### Playback, your way
+
+<p align="center">
+  <img src="screenshots/tv-playback-controls.jpg" width="90%" alt="Player with on-screen controls and styled anime subtitles">
+</p>
+
+Simple on-screen controls you can drive with the remote, plus optional **styled subtitles** for anime: the signs, fonts, and colours the fansubbers intended, instead of plain white text. It's off by default. Turn it on from the player's Subtitles menu.
+
 ### Your profile, at a glance
 
 <p align="center">
