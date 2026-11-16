@@ -18,9 +18,9 @@ for Android TV — and it still works great on your phone, with a mouse, or with
 
 ## What's included
 
-TvMoTo is actively being built and actively maintained. **Watching, browsing, and searching
-work well. Settings and Profile are now complete.** If you find something broken, let us
-know — each month brings fixes and new features.
+TvMoTo is actively being built and actively maintained. **Watching, browsing, searching,
+Settings, and Profile are all in place.** If you find something broken, let us
+know — each release brings fixes and new features.
 
 ---
 
@@ -148,8 +148,13 @@ Simple on-screen controls you can drive with the remote, plus optional **styled 
 
 ## Where to get it
 
-TvMoTo runs best on **Android TV**, **Android phones**, and **Windows**. Support
-for macOS, Linux, and web is in progress.
+TvMoTo is available for **Android** (Android TV, Fire TV, phones, and tablets) and
+**Windows**.
+
+| Platform | Download |
+|---|---|
+| Android TV / Fire TV / phone / tablet | APK (universal, arm64-v8a, or armeabi-v7a) |
+| Windows (64-bit) | Installer (setup) or portable |
 
 **Download the latest release:**
 👉 **[github.com/TvMoTo/TvMoTo/releases](https://github.com/TvMoTo/TvMoTo/releases)**
