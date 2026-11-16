@@ -164,6 +164,21 @@ check the Releases page for the newest version.)*
 
 ---
 
+## Support the project
+
+TvMoTo is a free, independent, passion-built project. If you enjoy it and want to
+help keep it going, you can leave a small tip — completely optional, and never
+required for any feature.
+
+☕ **[Support TvMoTo on Ko-fi](https://ko-fi.com/tvmoto)**
+
+If the link doesn't open anything (some ad-blockers quietly block payment pages),
+type it in directly: `ko-fi.com/tvmoto`
+
+Every bit of support is appreciated — thank you 🙏
+
+---
+
 ## A quick note on how TvMoTo works
 
 TvMoTo is a **catalog and player**, not a video host. Show and movie *information*
